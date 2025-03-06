@@ -1,8 +1,3 @@
-#  @Bek Brace [ Twitter - Dev.to - GitHub ]
-#  VueJs - Flask Full-Stack Web Application
-#  bekbrace.com - info@bekbrace.com
-#  Source Code : Michael Hermann [ mjheaO ]
-
 from flask import Flask, jsonify, request 
 from flask_cors import CORS
 import uuid
